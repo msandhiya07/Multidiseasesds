@@ -1,4 +1,5 @@
-#pandas
-#numpy
-#streamlit
-#skilearn
+streamlit
+pandas
+numpy
+xgboost
+scikit-learn
